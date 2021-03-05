@@ -1,0 +1,16 @@
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\bin\Debug\net5.0\Exercite02Chapter02.exe
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\bin\Debug\net5.0\Exercite02Chapter02.deps.json
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\bin\Debug\net5.0\Exercite02Chapter02.runtimeconfig.json
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\bin\Debug\net5.0\Exercite02Chapter02.runtimeconfig.dev.json
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\bin\Debug\net5.0\Exercite02Chapter02.dll
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\bin\Debug\net5.0\ref\Exercite02Chapter02.dll
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\bin\Debug\net5.0\Exercite02Chapter02.pdb
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\obj\Debug\net5.0\Exercite02Chapter02.csprojAssemblyReference.cache
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\obj\Debug\net5.0\Exercite02Chapter02.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\obj\Debug\net5.0\Exercite02Chapter02.AssemblyInfoInputs.cache
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\obj\Debug\net5.0\Exercite02Chapter02.AssemblyInfo.cs
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\obj\Debug\net5.0\Exercite02Chapter02.csproj.CoreCompileInputs.cache
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\obj\Debug\net5.0\Exercite02Chapter02.dll
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\obj\Debug\net5.0\ref\Exercite02Chapter02.dll
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\obj\Debug\net5.0\Exercite02Chapter02.pdb
+E:\hoangnv\source_code_project\csharpe\Exercite02Chapter02\obj\Debug\net5.0\Exercite02Chapter02.genruntimeconfig.cache

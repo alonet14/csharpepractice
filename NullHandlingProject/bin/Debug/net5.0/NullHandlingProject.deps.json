@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NullHandlingProject/1.0.0": {
+        "runtime": {
+          "NullHandlingProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NullHandlingProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
