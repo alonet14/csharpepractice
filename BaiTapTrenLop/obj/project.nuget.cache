@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "KtyiyENvA38ehlgkleutuhErGx3XC/ldyYyb69HqTLzelNCzExipa734qURvCL+KV4B5mVmMd+Ekhs1nARnLbw==",
+  "success": true,
+  "projectFilePath": "E:\\hoangnv\\source_code_project\\csharpe\\BaiTapTrenLop\\BaiTapTrenLop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASELAB\\.nuget\\packages\\system.reactive.windows.forms\\5.0.0\\system.reactive.windows.forms.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Reactive.Windows.Forms 5.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Reactive.Windows.Forms",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

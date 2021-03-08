@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter04", "Chapter04\Chap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingChapter04", "DebuggingChapter04\DebuggingChapter04.csproj", "{DFC6D08C-0FC5-47EC-AA31-E35801953C8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapTrenLop", "BaiTapTrenLop\BaiTapTrenLop.csproj", "{F9E32A10-05ED-473B-A96A-F56F70D75459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapTrenLop_Point_Rect", "BaiTapTrenLop_Point_Rect\BaiTapTrenLop_Point_Rect.csproj", "{B148FB0D-AB0B-4315-BAC1-1F89215E4D0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{DFC6D08C-0FC5-47EC-AA31-E35801953C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFC6D08C-0FC5-47EC-AA31-E35801953C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFC6D08C-0FC5-47EC-AA31-E35801953C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E32A10-05ED-473B-A96A-F56F70D75459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E32A10-05ED-473B-A96A-F56F70D75459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E32A10-05ED-473B-A96A-F56F70D75459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E32A10-05ED-473B-A96A-F56F70D75459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B148FB0D-AB0B-4315-BAC1-1F89215E4D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B148FB0D-AB0B-4315-BAC1-1F89215E4D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B148FB0D-AB0B-4315-BAC1-1F89215E4D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B148FB0D-AB0B-4315-BAC1-1F89215E4D0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
