@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\hoangnv\\source_code_project\\csharpe\\NullHandlingProject\\NullHandlingProject.csproj": {}
+    "G:\\classpr\\csharpproject\\NullHandlingProject\\NullHandlingProject.csproj": {}
   },
   "projects": {
-    "E:\\hoangnv\\source_code_project\\csharpe\\NullHandlingProject\\NullHandlingProject.csproj": {
+    "G:\\classpr\\csharpproject\\NullHandlingProject\\NullHandlingProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\hoangnv\\source_code_project\\csharpe\\NullHandlingProject\\NullHandlingProject.csproj",
+        "projectUniqueName": "G:\\classpr\\csharpproject\\NullHandlingProject\\NullHandlingProject.csproj",
         "projectName": "NullHandlingProject",
-        "projectPath": "E:\\hoangnv\\source_code_project\\csharpe\\NullHandlingProject\\NullHandlingProject.csproj",
-        "packagesPath": "C:\\Users\\ASELAB\\.nuget\\packages\\",
-        "outputPath": "E:\\hoangnv\\source_code_project\\csharpe\\NullHandlingProject\\obj\\",
+        "projectPath": "G:\\classpr\\csharpproject\\NullHandlingProject\\NullHandlingProject.csproj",
+        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+        "outputPath": "G:\\classpr\\csharpproject\\NullHandlingProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASELAB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\ASELAB\\.dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

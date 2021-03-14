@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASELAB\\.nuget\\packages\\": {}
+    "C:\\Users\\hoang\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\hoangnv\\source_code_project\\csharpe\\Exercite02Chapter02\\Exercite02Chapter02.csproj",
+      "projectUniqueName": "G:\\classpr\\csharpproject\\Exercite02Chapter02\\Exercite02Chapter02.csproj",
       "projectName": "Exercite02Chapter02",
-      "projectPath": "E:\\hoangnv\\source_code_project\\csharpe\\Exercite02Chapter02\\Exercite02Chapter02.csproj",
-      "packagesPath": "C:\\Users\\ASELAB\\.nuget\\packages\\",
-      "outputPath": "E:\\hoangnv\\source_code_project\\csharpe\\Exercite02Chapter02\\obj\\",
+      "projectPath": "G:\\classpr\\csharpproject\\Exercite02Chapter02\\Exercite02Chapter02.csproj",
+      "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+      "outputPath": "G:\\classpr\\csharpproject\\Exercite02Chapter02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASELAB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\ASELAB\\.dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
